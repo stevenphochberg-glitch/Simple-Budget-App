@@ -1,0 +1,22 @@
+{
+  "short_name": "SimpleBudget",
+  "name": "Simple Budgeting",
+  "description": "Frictionless expense logging and weekly accountability check-ins",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F7F5F0",
+  "theme_color": "#2D3E33",
+  "display": "standalone",
+  "orientation": "portrait"
+}

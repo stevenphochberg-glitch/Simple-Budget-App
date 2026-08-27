@@ -1,0 +1,7 @@
+{
+  "name": "Simple Budgeting",
+  "description": "A mobile-first PWA budgeting app designed to foster healthy financial habits through natural language expense logging, weekly accountability check-ins, and flexible rollover logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
